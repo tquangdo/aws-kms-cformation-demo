@@ -13,9 +13,9 @@
 
 ## 2.4 Xóa bỏ AWS KMS CMKs
 ### FirstCMK
-- ->  `Pending deletion`
+- CMK's status change to `Pending deletion`
 ### ImportedCMK (External) (NOT practice!)
-- ->  `Pending import` ->  `Pending deletion`
+- CMK's status change to `Pending import` ->  `Pending deletion`
 
 ## 3.2 Mã hóa phía Server
 - create EBS name=`DTQWorkshopEBS`
