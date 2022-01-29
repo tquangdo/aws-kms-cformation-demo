@@ -37,6 +37,9 @@ xvdf    202:80   0  100G  0 disk
 ## 3.2 Mã hóa phía Client
 `script.sh` > "3-mã-hóa-file-text-encryptedSecret"
 
+## 5 Giám sát việc sử dụng AWS KMS
+![monitor](screenshots/monitor.png)
+
 ## the end
 - just practice until this of `script.sh`, the remains please follow ## reference
 ```shell
